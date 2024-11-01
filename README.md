@@ -4,7 +4,7 @@ Problem Statement:
 A Bank wants to launch new credit cards to expand it's services, but there is uncertainity. To address this, I as a Data Analyst,need to analyse sample dataset of 4000 customers' online spending habits across 5 cities. The goal is to provide insights that will help this bank tailor the credit cards to customer needs and market trends.
 
 1. Demography
-   ![Sales_Dashboard](Sales_Dashboard.png "Sales_Dashboard")
+   ![Demography](Demography.png "Demography")
 
    a. We have total 4000 customers where Average income is Rs. 51,657 and Average expenditure is Rs. 1,32,724
    b. With respect to Gender, we have more male customers and considering the marital status, we have 78% married customers
@@ -14,7 +14,7 @@ A Bank wants to launch new credit cards to expand it's services, but there is un
 
 
 2. Income Utilisation
-   ![Sales_Dashboard](Sales_Dashboard.png "Sales_Dashboard")
+   ![Income_Utilisation](Income_Utilisation.png "Income_Utilisation")
 
    a. Comparing Income Utilisation with Expenditure, we see higher the Income class lower is the Expenditure i.e. more the savings
    b. Also, in August and September months, more spending is done.
@@ -22,14 +22,14 @@ A Bank wants to launch new credit cards to expand it's services, but there is un
    d. Mumbai and Delhi NCR ranks highest in expenditure.
 
 3. Spending Insights
-   ![Sales_Dashboard](Sales_Dashboard.png "Sales_Dashboard")
+   ![Spending_Insights](Spending_Insights.png "Spending_Insights")
 
    a. Maximum money is being spend on Bills, Groceries and Electronics where mostly Credit cards are being used.
    b. Males usely spend more on Bills,Electronics and Groceries whereas Females spend more on Health & Wellness, Travel and Electronics.
    c. Age group 25-35 and 35-45 is spending more in all the categories except Entertainment and Apparel where 21-34 age group is spending more.
 
 4. Credit Card Users
-   ![Sales_Dashboard](Sales_Dashboard.png "Sales_Dashboard")
+   ![Credit_Card_User_Analysis](Credit_Card_User_Analysis.png "Credit_Card_User_Analysis")
 
    a. All the age groups prefer Credit cards for spending whreas Lower income group also like to spend with UPI.
    b. Top 3 categories where Credit card is used is Bills, Electronics, Health and Wellness.
