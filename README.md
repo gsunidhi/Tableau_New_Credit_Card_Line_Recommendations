@@ -6,7 +6,7 @@ A Bank wants to launch new credit cards to expand it's services, but there is un
 1. Demography
    ![Demography](Demography.png "Demography")
 
-   a. We have total 4000 customers where Average income is Rs. 51,657 and Average expenditure is Rs. 1,32,724
+   a. We have total 4000 customers where Average income is Rs. 51,657 and Average expenditure is Rs. 1,32,724 </br>
    b. With respect to Gender, we have more male customers and considering the marital status, we have 78% married customers
    c. Comparing the salaries, we see almost half the customers are in Mid income category.
    d. Salaried IT employees and Business owners earn more compared to other professions
