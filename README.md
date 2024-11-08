@@ -1,4 +1,4 @@
-# Tableau_New_Credit_Card_Line_Recommendations
+# Tableau New Credit Card Line Recommendations
 
 Problem Statement: 
 A Bank wants to launch new credit cards to expand it's services, but there is uncertainity. To address this, I as a Data Analyst,need to analyse sample dataset of 4000 customers' online spending habits across 5 cities. The goal is to provide insights that will help this bank tailor the credit cards to customer needs and market trends.
